@@ -15,8 +15,8 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String username = "baoth@vnpt.vn";
-        String password = "123456aA@@";
+        String username = "";
+        String password = "";
         String comId = "164";
         String baseUrl = "http://10.70.100.213:2036";
 
