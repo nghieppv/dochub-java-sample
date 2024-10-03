@@ -1,2 +1,2 @@
-# dochub-java-sample
-Sample code java
+# econtract-onpremise-java-sample
+eContract On-Premise Sample code java
