@@ -1,4 +1,4 @@
 # eContract On-Premise Java
 eContract On-Premise Sample code java
-• Xác thực
-• Tạo lô chứng từ
+<br/>• Xác thực
+<br/>• Tạo lô chứng từ
