@@ -18,7 +18,7 @@ public class Main {
         String username = "";
         String password = "";
         String comId = "164";
-        String baseUrl = "http://10.70.100.213:2036";
+        String baseUrl = "url_api";
 
         int documentTemplateId = 1141; // lấy từ api danh sách mẫu chứng từ (/api/document-templates)
         int documentTypeId = 1089;// lấy từ api danh sách loại chứng từ (/api/document-types)
